@@ -224,6 +224,9 @@ Return:
 - from_page
 - to_page
 
+The rules:
+- always use minutes, convert hours and seconds to minutes
+
 If exact values are unknown,
 estimate realistically.`,
 						},
